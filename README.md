@@ -1,2 +1,2 @@
 # ficusbenjamina
-membangun sebuah web sederhana dari awal
+Membuat aplikasi web sederhana dengan menggabungkan dua tampilan video live streaming dalam satu halaman web
